@@ -1,0 +1,244 @@
+.section 
+{
+    display: grid;
+}
+.section1
+{
+    height: 30px;
+    background-image: linear-gradient(to right, red, green, yellow);
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.a
+{
+    position: relative;
+    bottom: 22px;
+}
+.section2
+{
+    border: 2.5px solid red;
+    border-radius: 10px;
+    background-color: rgb(160, 212, 233);
+    height: 80px;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    left: 305px;
+    padding-left: 255px;
+    padding-right: 250px;
+}
+.section3
+{
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: aquamarine;
+    height: 140px;
+    width: 100%;
+    position: relative;
+    top: 32px;
+}
+.box1
+{
+    border: 1.5px solid green;
+    border-radius: 7px;
+    background-color: aqua;
+    height: 65px;
+    width: 400px;
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    bottom: 17px;
+    left: 25px;
+}
+.box2
+{
+    border: 1.5px solid green;
+    border-radius: 7px;
+    background-color: aqua;
+    height: 65px;
+    width: 400px;
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    bottom: 102px;
+    left: 463px;
+}
+.box3
+{
+    border: 1.5px solid green;
+    border-radius: 7px;
+    background-color: aqua;
+    height: 65px;
+    width: 400px;
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    bottom: 187px;
+    left: 900px;
+}
+.box4
+{
+    border: 1.5px solid green;
+    border-radius: 7px;
+    background-color: aqua;
+    height: 65px;
+    width: 400px;
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    bottom: 200px;
+    left: 464px;
+}
+.section4
+{
+    height: 35px;
+    background-image: linear-gradient(to left, red, orange, red);
+    text-align: center;
+    font-size: 19.5px;
+    font-weight: bold;
+    text-decoration: underline;
+    position: relative;
+    top: 55px;
+}
+.b
+{
+    position: relative;
+    bottom: 22px;
+}
+.section5
+{
+    border: 2px solid green;
+    background-image: radial-gradient(rgb(57, 57, 255) 10%, rgb(24, 127, 230) 35%, rgb(73, 207, 73) );
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto auto;
+    height: 225px;
+    position: relative;
+    top: 73px;
+}
+.box5
+{
+    border: 2px solid red;
+    border-radius: 7px;
+    background-color: rgb(228, 211, 58);
+    font-weight: bold;
+    color: maroon;
+    text-align: center;
+    text-decoration: underline;
+    height: 95px;
+    width: 200px;
+    margin: 50px;
+    position: relative;
+    top: 10px;
+}
+.section6
+{
+    border: 1px solid black;
+    height: 336px;
+    width: 100%;
+    position: relative;
+    top: 100px;
+}
+.section61
+{
+    background-color: rgb(214, 44, 44);
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    height: 40px;
+    position: relative;
+    bottom: 23px;
+}
+.box6
+{
+    position: relative;
+    bottom: 4px;
+}
+.section62
+{
+    display: grid;
+    gap: 19px;
+    position: relative;
+    bottom: 30px;
+}
+.box7
+{
+    background-color: rgb(142, 223, 142);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    height: 70px;
+}
+.box8
+{
+    background-color: dodgerblue;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    height: 70px;
+}
+.box9
+{
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    height: 70px;
+    position: relative;
+    top: 9px;
+}
+.box10
+{
+    background-color: rgb(58, 57, 57);
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: left;
+    height: 233px;
+    grid-column: 4;
+    grid-row: 1;
+    position: relative;
+    top: 17px;
+}
+.c
+{
+    position: relative;
+    color: white;
+    font-family: serif;
+    font-size: 18px;
+    bottom: 255px;
+}
+.box11
+{
+    background-color: rgb(248, 177, 44);
+    color: white;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: left;
+    grid-column: 1/ span 3;
+    grid-row: 2;
+    height: 140px;
+    position: relative;
+    bottom: 175px;
+}
+.section63
+{
+    background-color: skyblue;
+    position: relative;
+    bottom: 365px;
+    height: 25px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}
